@@ -7,4 +7,4 @@ Which technology it used: JavaScript, HTML, CSS
 What i learned through this: 
 -I learned async programming through this project.
 -I leaned how to call a api and handle the response using both promises and async await.
--I leanred How to alter DOM and feed data.
+-I leanred How to alter DOM and feed data. 
