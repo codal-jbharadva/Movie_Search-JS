@@ -1,4 +1,4 @@
-const api = `https://dummyapi.online/api/movies`;
+const api = `https://freetestapi.com/api/v1/movies`;
 const array = [];
 console.log(array);
 document.addEventListener("DOMContentLoaded", async()=>{
